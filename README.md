@@ -1,11 +1,7 @@
 # PCA-Scratch
 PCA Scratch coding by Python
 
-Task: pick one of the digits (e.g. the "ones"), which gives you a dataset of 200
-image vectors. Carry out a K-means clustering on your chosen sample, setting
-K = 1 (!), 2, 3, and 200 in four runs of this algorithm. Generate visualizations of the
-images that are coded in the respective codebook vectors that you get (for the K = 200
-case, only visualize a few). Discuss what you see.
+
 
 The aim of this project is to compress and uncompress images with PCA by entered values.
 Entered values should specify the amount of variance that user want to preserve. 
