@@ -1,7 +1,11 @@
 # PCA-Scratch
 PCA Scratch coding by Python
 
-
+The objective of this task is to compress and uncompress images with PCA.
+Pick one of the digits (for instance, pick the "3" digits if you like 3's better than other
+digits) and continue the rest of this task only with the N = 200 images of this digit.
+Compute a PCA of this size-200 dataset. Do not use a ready-made PCA routine but
+program your PCA function from scratch, building on an SVD.
 
 The aim of this project is to compress and uncompress images with PCA by entered values.
 Entered values should specify the amount of variance that user want to preserve. 
